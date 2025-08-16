@@ -1,4 +1,4 @@
-.import 'package:hive/hive.dart';
+import 'package:hive/hive.dart';
 
 part 'recipe.g.dart';
 
@@ -32,3 +32,4 @@ class Recipe extends HiveObject {
   });
 
 }
+
