@@ -1,4 +1,4 @@
-.# 🍳 Συνταγές Μαγειρικής (Recipe Collection App)
+# 🍳 Συνταγές Μαγειρικής (Recipe Collection App)
 
 A comprehensive Flutter mobile application for storing and managing cooking recipes with local data persistence using Hive database.
 
