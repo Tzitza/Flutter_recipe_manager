@@ -1,4 +1,4 @@
-.import 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
 import '../models/recipe.dart';
 import '../widgets/star_rating.dart';
 import 'dart:io';
@@ -184,3 +184,4 @@ class _InfoCard extends StatelessWidget {
   }
 
 }
+
