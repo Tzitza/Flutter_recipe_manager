@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+.import 'package:flutter/material.dart';
 import 'package:hive_flutter/hive_flutter.dart';
 import '../models/recipe.dart';
 import '../widgets/recipe_card.dart';
@@ -217,4 +217,5 @@ class _HomeScreenState extends State<HomeScreen> {
       ),
     );
   }
+
 }
