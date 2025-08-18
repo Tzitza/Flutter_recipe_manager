@@ -1,4 +1,4 @@
-.import 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
 
 class StarRating extends StatelessWidget {
   final double rating;
@@ -34,5 +34,6 @@ class StarRating extends StatelessWidget {
   }
 
 }
+
 
 
