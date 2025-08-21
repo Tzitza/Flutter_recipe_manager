@@ -1,4 +1,4 @@
-part of 'recipe.dart';
+.part of 'recipe.dart';
 
 class RecipeAdapter extends TypeAdapter<Recipe> {
   @override
