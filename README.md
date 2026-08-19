@@ -147,17 +147,6 @@ This app was developed as a semester project for Mobile Device Programming cours
 - **Enhanced UI**: Modern, polished user interface
 - **Image Management**: Proper image storage and error handling
 
-## 🎯 Academic Context
-
-- **Course**: Προγραμματισμός Κινητών Συσκευών (Mobile Device Programming)
-- **Deadline**: May 31, 2025
-- **Team Size**: 2 members (required)
-- **Grade Weight**: 50% of final grade
-- **Deliverables**: 
-  - Flutter project source code
-  - APK executable file
-  - Detailed implementation report with screenshots
-
 ## 📱 Supported Platforms
 
 - **Primary**: Android (APK build included)
